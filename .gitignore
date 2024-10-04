@@ -1,0 +1,8 @@
+# MATLAB cache files
+*.asv
+
+# Testing files
+*_test.m
+
+# Personal environments
+initialiseenv.m
